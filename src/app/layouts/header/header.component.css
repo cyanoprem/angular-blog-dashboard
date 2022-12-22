@@ -1,0 +1,24 @@
+.navbar {
+  padding: 2em 1em;
+  height: 100px;
+  background-color: var(--navbar-footer-color);
+}
+
+.button-style {
+  background-color: var(--secondary-color);
+  border: none;
+  padding: 5px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.7em;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 20px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+}
